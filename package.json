@@ -1,0 +1,18 @@
+{
+  "name": "VIBE",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node_modules/.bin/mocha index.spec.js",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "cheerio": "^1.0.0-rc.10",
+    "mocha": "^9.0.2",
+    "typescript": "^4.3.5"
+  }
+}
