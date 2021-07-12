@@ -25,6 +25,9 @@ fs.readFile('result.txt','utf8',function(err,data){
 });  
 ``` 
 
+### 설명
+[스크래핑,크롤링 차이](https://github.com/Kimbeomchul/TIL/blob/main/scraping.md)
+
 ### Demo
 ![scrap](https://user-images.githubusercontent.com/54543148/125275738-5b132b00-e34a-11eb-9131-7bbdade3bc20.gif)
 
